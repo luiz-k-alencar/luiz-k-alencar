@@ -19,7 +19,7 @@
   <a href = "mailto:luizkama28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/luiz.k.alencar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/luizLFKA/luizLFKA/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luiz-k-alencar/luiz-k-alencar/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -28,7 +28,7 @@
 
 
 <!--
-**luizLFKA/luizLFKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**luiz-k-alencar/luiz-k-alencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
