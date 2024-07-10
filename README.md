@@ -2,9 +2,14 @@
 
 ### 👋 About Me
 
-Hey there! I'm a Full Stack Developer, passionate about crafting exceptional user interfaces and building robust backend solutions. Specialized in Next.js on the frontend and Nest.js for the backend.
+Software Engineering student at [Inteli](https://www.inteli.edu.br/)ㅤ<img src="https://github.com/Bianca-Cassemiro/Bianca-Cassemiro/assets/99203402/837e4bdf-8d76-48b9-9fdb-846a5f20ca01" alt="Inteli Logo" width="18">
+<br>
+AI student at [Zuyd University](https://www.zuyd.nl/en) <img src="https://github.com/Bianca-Cassemiro/Bianca-Cassemiro/assets/99203402/017c35c9-3943-414a-aae5-a1a097cda754" alt="Inteli Logo" width="20"> <br>
 
-<h2> Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width=40px></h2>
+I am a Full Stack developer with professional experience in React, Next, Node, Nest. 
+Focused on AI technologies such as LangChain and private and open-source models.
+
+<h2> Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width=30px></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,py,nodejs,nestjs,postgres,mysql,prisma)](https://skillicons.dev)
 
