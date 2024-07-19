@@ -13,12 +13,17 @@ Focused on AI technologies such as LangChain and private and open-source models.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,py,nodejs,nestjs,postgres,mysql,prisma)](https://skillicons.dev)
 
-<h2> Stats <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5jZGk1bXZhOXd5dXEzZ2RudGVnYXBwYW9lMDE1ZXJuNmNxbnhteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" width=48px></h2>
+<h2> 
+  Stats <img
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5jZGk1bXZhOXd5dXEzZ2RudGVnYXBwYW9lMDE1ZXJuNmNxbnhteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" 
+  width=48px>
+</h2>
 <a href="https://wakatime.com/@luiz_k_alencar">
-  <img height="280em" width="390em" src="https://github-readme-stats.vercel.app/api/wakatime?username=luiz_k_alencar&langs_count=5&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luiz_k_alencar&langs_count=5&theme=github_dark" />
 </a>
 
-<br>
+<br />
+<br />
 
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/luiz-k-alencar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
