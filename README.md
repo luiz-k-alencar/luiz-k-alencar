@@ -19,7 +19,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5jZGk1bXZhOXd5dXEzZ2Rud
   width=48px>
 </h2>
 <a href="https://wakatime.com/@luiz_k_alencar">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luiz_k_alencar&langs_count=5&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luiz_k_alencar&langs_count=3&theme=github_dark" />
 </a>
 
 <br />
