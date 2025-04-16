@@ -11,7 +11,7 @@ Focused on AI technologies such as LangChain and private and open-source models.
 
 <h2> Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width=30px></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,nestjs,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,ts,nodejs,react)](https://skillicons.dev)
 
 <!--
 <h2> 
